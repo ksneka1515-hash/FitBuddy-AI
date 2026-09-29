@@ -1,0 +1,6 @@
+{
+  "name": "PocketSmart AI",
+  "description": "Your Smart Budget & Recommendation Assistant. Plan smarter, spend better, and choose confidently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
